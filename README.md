@@ -19,7 +19,7 @@ This project analyzes how natural disasters such as hurricanes and wildfires aff
   - Ensure that you have Python version 3.9 or above
 
 - **Clone the GitHub Repository**
-  - Use command "git clone https://github.com/mkharroub/ECE143-The-Impact-of-Natural-Disasters-on-U.S.-Real-Estate-Prices/tree/main" in your local machine
+  - Use command "git clone https://github.com/Siddhant1802/The-Effect-of-Natural-Disasters-on-Property-Values" in your local machine
   - Navigate to the repository folder using the command "cd ECE143-The-Impact-of-Natural-Disasters-on-U.S.-Real-Estate-Prices"
   - Install the dependencies using the command "pip install -r requirements.txt"
 
@@ -50,11 +50,10 @@ This project analyzes how natural disasters such as hurricanes and wildfires aff
   - requirements.txt: This file lists all the Python packages and their versions required for our project. It allows others to easily set up the same environment.
 
 ## Authors
-- Avyakta Kalipattapu - [avyaktaKR](https://github.com/avyaktaKR)
-- Keke Hu - [cocoa-hu](https://github.com/cocoa-hu)
-- Mohammed Kharroub - [mkharroub](https://github.com/mkharroub)
-- Rohan Shingre - [Ulorewien](https://github.com/Ulorewien)
+Siddhant Singh-siddhantssingh1802@gmail.com
+Priyanshu Laddha-priyashuuladhaa@gmail.com
 
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details
+  
+
+
 
